@@ -54,5 +54,5 @@ C:\HyperVExports\
 
 ## Download
 
-[click me to download](https://github.com/KurohKusanagi/Skripte/archive/refs/tags/Pre-release.zip)
+[click me to download](https://github.com/KurohKusanagi/Kurohs-Skripte/releases/download/v1.0.0/HyperV-VM-Export-Manager.ps1)
 
