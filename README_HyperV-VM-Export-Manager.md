@@ -53,6 +53,5 @@ C:\HyperVExports\
 
 
 ## Download
-
-[click me to download](https://github.com/KurohKusanagi/Kurohs-Skripte/releases/download/v1.0.0/HyperV-VM-Export-Manager.ps1)
+<a href="https://github.com/KurohKusanagi/Kurohs-Skripte/releases/download/v1.0.0/HyperV-VM-Export-Manager.ps1"><img alt="GitHub Downloads (specific asset, latest release)" src="https://img.shields.io/github/downloads/KurohKusanagi/Kurohs-Skripte/latest/HyperV-VM-Export-Manager.ps1"></a>
 
