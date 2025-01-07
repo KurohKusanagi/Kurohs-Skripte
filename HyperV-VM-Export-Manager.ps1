@@ -9,6 +9,8 @@
 #               Datum erstellt wird. Zusätzlich sorgt es für effizientes
 #               Speicherplatzmanagement, indem ältere Backups gelöscht werden,
 #               sodass nur eine vordefinierte Anzahl an Sicherungen erhalten bleibt.
+#
+# Anforderungen: ntfy - https://docs.ntfy.sh/
 # ====================================================================================
 
 # ======= Konfiguration =======
@@ -22,7 +24,7 @@ $KeepBackups = 1
 $LogFile = "C:\HyperVExports\ExportLog.txt"
 
 # ntfy Topic an das Nachrichten gesendet werden sollen
-$ntfyTopic = "KurohVMBackupSkript"
+$ntfyTopic = "VMBackup"
 
 
 # ======= Funktionen ========
