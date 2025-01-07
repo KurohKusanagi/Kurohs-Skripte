@@ -23,6 +23,7 @@ Dieses Skript eignet sich ideal für Administratoren, die regelmäßig Sicherung
 - Automatisierung: Keine manuelle Exportarbeit mehr erforderlich.
 - Speicheroptimierung: Alte Backups werden automatisch bereinigt.
 - Transparenz: Detaillierte Protokolle über alle Aktivitäten.
+- Benachrichtigungen: Push-Benachrichtigungen informieren bei erfolgreichem Export oder auftretenden Fehlern direkt auf dem Smartphone.
 - Zuverlässigkeit: Sicherung der VMs in strukturierten und datumsbasierten Verzeichnissen.
 
 Beispiel für Verzeichnisstruktur nach dem Export:
@@ -55,3 +56,5 @@ C:\HyperVExports\
 ## Download
 <a href="https://github.com/KurohKusanagi/Kurohs-Skripte/releases/download/v1.0.0/HyperV-VM-Export-Manager.ps1"><img alt="GitHub Downloads (specific asset, latest release)" src="https://img.shields.io/github/downloads/KurohKusanagi/Kurohs-Skripte/latest/HyperV-VM-Export-Manager.ps1"></a>
 
+## Anforderungen:
+Die App <a href="https://docs.ntfy.sh/">ntfy</a> wird benötigt um Benachrichtigungen auf dem Smartphone zu erhalten
