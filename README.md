@@ -20,7 +20,7 @@ Ziel ist es, eine vielseitige und stetig wachsende Sammlung an Skripten bereitzu
 ## Skripte
 ### HyperV-VM-Export-Manager
 
-<a href="https://github.com/KurohKusanagi/Kurohs-Skripte/releases/download/v1.0.0/HyperV-VM-Export-Manager.ps1"><img alt="Static Badge" src="https://img.shields.io/badge/Link-Download-yellow"></a>
+<a href="https://github.com/KurohKusanagi/Kurohs-Skripte/releases/download/v1.1.0/HyperV-VM-Export-Manager.ps1"><img alt="Static Badge" src="https://img.shields.io/badge/Link-Download-yellow"></a>
 
 <a href="https://github.com/KurohKusanagi/Kurohs-Skripte/blob/main/README_HyperV-VM-Export-Manager.md"><img alt="Static Badge" src="https://img.shields.io/badge/Link-README-blue"></a>
 
